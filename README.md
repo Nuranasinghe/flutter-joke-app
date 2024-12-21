@@ -23,19 +23,13 @@ A fun and interactive Flutter app that fetches jokes from an API, allows users t
 git clone https://github.com/Nuranasinghe/flutter-joke-cache-app.git
 ```
 
-### 2. Navigate into the project directory:
-
-```bash
-cd joke-app
-```
-
-### 3. Install dependencies:
+### 2. Install dependencies:
 
 ```bash
 flutter pub get
 ```
 
-### 4. Run the app:
+### 3. Run the app:
 
 ```bash
 flutter run
